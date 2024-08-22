@@ -39,3 +39,15 @@
 </p>
 
 
+### Tools:
+<p float="left">
+  <a href="https://github.com/shawkui/pdf2img">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shawkui&theme=swift&repo=pdf2img&show_owner=true&description_lines_count=2" alt="Image 3" style="width: 40%; display: inline-block;" />
+</a>
+<a href="https://github.com/shawkui/bib_collector">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shawkui&theme=swift&repo=bib_collector&show_owner=true&description_lines_count=2" alt="Image 2" style="width: 40%; display: inline-block;" />
+</a>
+<a href="https://github.com/shawkui/bib_slim">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shawkui&theme=swift&repo=bib_slim&show_owner=true&description_lines_count=2" alt="Image 2" style="width: 40%; display: inline-block;" />
+</a>
+</p>
