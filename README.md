@@ -6,7 +6,7 @@
        /#. ,&(#..,. ./*.....,.,(/.    *(,....,%/       |    ----------------------------------------
           (#.#, /%/  ,/*****,./( ,%&/  /*......((      |    Position: Ph.D. Candidate
         ,%*...%(   .((,(@@@@*.,%*     ,(* .....,((     |    E-mail: shaokuiwei@link.cuhk.edu.cn
-       .%/           ,**%@&,./,  ,***.      ....*#,    |    Homepage: shawkui.github.io/
+       .%/           ,**%@&,./,  ,***.      ....*#,    |    Homepage: shawkui.github.io
        *%,             /###%.                 ..*#,    |    Google Scholar: scholar.google.com/citations?user=WHkEfnsAAAAJ
        .%*             ./(/,                   ./(     |    Address: 2001 Longxiang Boulevard, Longgang District, Shenzhen
         .#/                                   .(#      |
