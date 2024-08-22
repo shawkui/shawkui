@@ -31,13 +31,13 @@
 ### Official Implementation:
 <p float="left">
   <a href="https://github.com/shawkui/MP_Fair_Regression">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shawkui&theme=swift&repo=MP_Fair_Regression&show_owner=true&description_lines_count=2" alt="Image 1" style="width: 40%; display: inline-block;" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shawkui&theme=swift&repo=MP_Fair_Regression&show_owner=false&description_lines_count=2" alt="Image 1" style="width: 40%; display: inline-block;" />
 </a>
 <a href="https://github.com/SCLBD/BackdoorBench">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SCLBD&theme=swift&repo=BackdoorBench&show_owner=true&description_lines_count=2" alt="Image 2" style="width: 40%; display: inline-block;" />
 </a>
 <a href="https://github.com/shawkui/MindTrojan">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shawkui&theme=swift&repo=MindTrojan&show_owner=true&description_lines_count=2" alt="Image 2" style="width: 40%; display: inline-block;" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shawkui&theme=swift&repo=MindTrojan&show_owner=false&description_lines_count=2" alt="Image 2" style="width: 40%; display: inline-block;" />
 </a>
 </p>
 
