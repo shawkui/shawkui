@@ -36,18 +36,25 @@
 <a href="https://github.com/SCLBD/BackdoorBench">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SCLBD&theme=swift&repo=BackdoorBench&show_owner=true&description_lines_count=2" alt="Image 2" style="width: 40%; display: inline-block;" />
 </a>
+<a href="https://github.com/shawkui/MindTrojan">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shawkui&theme=swift&repo=MindTrojan&show_owner=true&description_lines_count=2" alt="Image 2" style="width: 40%; display: inline-block;" />
+</a>
 </p>
 
 
-### Tools:
+### Tools/Resource:
 <p float="left">
   <a href="https://github.com/shawkui/pdf2img">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shawkui&theme=swift&repo=pdf2img&show_owner=true&description_lines_count=2" alt="Image 3" style="width: 40%; display: inline-block;" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shawkui&theme=swift&repo=pdf2img&show_owner=false&description_lines_count=2" alt="Image 3" style="width: 40%; display: inline-block;" />
 </a>
 <a href="https://github.com/shawkui/bib_collector">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shawkui&theme=swift&repo=bib_collector&show_owner=true&description_lines_count=2" alt="Image 2" style="width: 40%; display: inline-block;" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shawkui&theme=swift&repo=bib_collector&show_owner=false&description_lines_count=2" alt="Image 2" style="width: 40%; display: inline-block;" />
 </a>
 <a href="https://github.com/shawkui/bib_slim">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shawkui&theme=swift&repo=bib_slim&show_owner=true&description_lines_count=2" alt="Image 2" style="width: 40%; display: inline-block;" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shawkui&theme=swift&repo=bib_slim&show_owner=false&description_lines_count=2" alt="Image 2" style="width: 40%; display: inline-block;" />
 </a>
+  <a href="https://github.com/shawkui/CUHK-Shenzhen-Beamer-Template">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shawkui&theme=swift&repo=CUHK-Shenzhen-Beamer-Template&show_owner=false&description_lines_count=2" alt="Image 2" style="width: 40%; display: inline-block;" />
+</a>
+
 </p>
