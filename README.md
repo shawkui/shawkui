@@ -25,7 +25,7 @@
 
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawkui&theme=swift&show_icons=true&hide_border=true&layout=compact" width="285" />
-  <img src="https://github-readme-stats.vercel.app/api?username=shaokui&theme=swift&show_icons=true&hide_border=true&count_private=true" width="375" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=shawkui&theme=swift&show_icons=true&hide_border=true&count_private=true" width="375" /> 
 </p>
                                                                                 
 
