@@ -24,8 +24,8 @@
                                                 
 
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawkui&theme=swift&show_icons=true&hide_border=true&layout=compact" width="190" />
-  <img src="https://github-readme-stats.vercel.app/api?username=shaokui&theme=swift&show_icons=true&hide_border=true&count_private=true" width="250" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawkui&theme=swift&show_icons=true&hide_border=true&layout=compact" width="285" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shaokui&theme=swift&show_icons=true&hide_border=true&count_private=true" width="375" /> 
 </p>
                                                                                 
 
