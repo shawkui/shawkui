@@ -29,7 +29,13 @@
 </p>
                                                                                 
 ### Official Implementation
-[![MP_Fair_Regression](https://github-readme-stats.vercel.app/api/pin/?username=shawkui&repo=MP_Fair_Regression&show_owner=true)](https://github.com/shawkui/MP_Fair_Regression)
+<p float="left">
+  <a href="https://github.com/shawkui/MP_Fair_Regression">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shawkui&repo=MP_Fair_Regression&show_owner=true&description_lines_count=2" alt="Image 1" style="width: 40%; display: inline-block;" />
+</a>
+<a href="https://github.com/SCLBD/BackdoorBench">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SCLBD&repo=BackdoorBench&show_owner=true&description_lines_count=2" alt="Image 2" style="width: 40%; display: inline-block;" />
+</a>
+</p>
 
-[![BackdoorBench](https://github-readme-stats.vercel.app/api/pin/?username=SCLBD&repo=BackdoorBench&show_owner=true)](https://github.com/SCLBD/BackdoorBench)
 
