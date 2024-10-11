@@ -39,6 +39,12 @@
 <a href="https://github.com/shawkui/MindTrojan">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=shawkui&theme=swift&repo=MindTrojan&show_owner=false&description_lines_count=2" alt="Image 2" style="width: 40%; display: inline-block;" />
 </a>
+<a href="https://github.com/shawkui/Shared_Adversarial_Unlearning">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shawkui&theme=swift&repo=Shared_Adversarial_Unlearning&show_owner=false&description_lines_count=2" alt="Image 2" style="width: 40%; display: inline-block;" />
+</a>
+<a href="https://github.com/shawkui/Proactive_Defensive_Backdoor">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shawkui&theme=swift&repo=Proactive_Defensive_Backdoor&show_owner=false&description_lines_count=2" alt="Image 2" style="width: 40%; display: inline-block;" />
+</a>
 </p>
 
 
