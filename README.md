@@ -2,13 +2,13 @@
                ,&**,.,%&/,*//((/*.   *&%/,..#%         |
                *&*(%%(/*,,.......,*/#/,,,,**.##        |
      *#(,     .(%/......................,*,,,,&.       |
-     ./,     #%,#&%#*............,(%#*.....,,*&.       |    Shaokui@CUHK(SZ)
+     ./,     #%,#&%#*............,(%#*.....,,*&.       |    Shaokui@SUFE
        /#. ,&(#..,. ./*.....,.,(/.    *(,....,%/       |    ----------------------------------------
-          (#.#, /%/  ,/*****,./( ,%&/  /*......((      |    Position: Ph.D. Candidate
-        ,%*...%(   .((,(@@@@*.,%*     ,(* .....,((     |    E-mail: shaokuiwei@link.cuhk.edu.cn
+          (#.#, /%/  ,/*****,./( ,%&/  /*......((      |    Position: Assistant Professor
+        ,%*...%(   .((,(@@@@*.,%*     ,(* .....,((     |    E-mail: weishaokui@mail.sufe.edu.cn
        .%/           ,**%@&,./,  ,***.      ....*#,    |    Homepage: shawkui.github.io
        *%,             /###%.                 ..*#,    |    Google Scholar: scholar.google.com/citations?user=WHkEfnsAAAAJ
-       .%*             ./(/,                   ./(     |    Address: 2001 Longxiang Boulevard, Longgang District, Shenzhen
+       .%*             ./(/,                   ./(     |    Address: No.777 Guoding Road, Yangpu District, Shanghai, P.R.China 200433
         .#/                                   .(#      |
           /%*                    ,#%%*    ,/(#%*       |
              /&*              *&/,,.(&(*##,.../%,      |
